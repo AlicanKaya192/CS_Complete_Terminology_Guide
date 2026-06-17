@@ -114,8 +114,8 @@ Veri & AI
 
 | Dosya | Açıklama | Boyut |
 |-------|----------|-------|
-| [📄 TR — CS_Kapsamli_Terim_Rehberi_v5.pdf](./CS_Kapsamli_Terim_Rehberi_TR.pdf) | Türkçe rehber, öğrenme sırasına göre | ~4 MB |
-| [📄 EN — CS_Complete_Terminology_Guide_v5_EN.pdf](./CS_Complete_Terminology_Guide_EN.pdf) | İngilizce rehber, öğrenme sırasına göre | ~4 MB |
+| [📄 TR — CS_Kapsamli_Terim_Rehberi_TR.pdf](./CS_Kapsamli_Terim_Rehberi_TR.pdf) | Türkçe rehber, öğrenme sırasına göre | ~4 MB |
+| [📄 EN — CS_Complete_Terminology_Guide_EN.pdf](./CS_Complete_Terminology_Guide_EN.pdf) | İngilizce rehber, öğrenme sırasına göre | ~4 MB |
 
 </details>
 
@@ -235,8 +235,8 @@ Production & Career
 
 | File | Description | Size |
 |------|-------------|------|
-| [📄 TR — CS_Kapsamli_Terim_Rehberi_v5.pdf](./CS_Kapsamli_Terim_Rehberi_TR.pdf) | Turkish guide, ordered by learning sequence | ~4 MB |
-| [📄 EN — CS_Complete_Terminology_Guide_v5_EN.pdf](./CS_Complete_Terminology_Guide_EN.pdf) | English guide, ordered by learning sequence | ~4 MB |
+| [📄 TR — CS_Kapsamli_Terim_Rehberi_TR.pdf](./CS_Kapsamli_Terim_Rehberi_TR.pdf) | Turkish guide, ordered by learning sequence | ~4 MB |
+| [📄 EN — CS_Complete_Terminology_Guide_EN.pdf](./CS_Complete_Terminology_Guide_EN.pdf) | English guide, ordered by learning sequence | ~4 MB |
 
 </details>
 
